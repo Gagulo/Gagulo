@@ -1,12 +1,12 @@
 ### Hello there 👋 I'm Grzegorz
 
-- 🔭 II’m currently working at @Inetum
+- 🔭 II’m currently working at Íslandsbanki
 - 🌱 I’m currently learning more and more Javascript
 - :computer: Most used line of code `git rebase`
-- 🤔 I’m looking for help with getting my first milion $
+- 🤔 I’m getting my first milion $
 - 💬 Ask me about angular
 - 📫 How to reach me: grzegorzsokalski86@gmail.com
-- 😄 Pronouns: Gagulo
+- 😄 Pronouns: Gagulo, Greg, Grzes
 - ⚡ Fun fact: Did u know that Earth've 2 moons (2020 CD3)?
 
 ----
