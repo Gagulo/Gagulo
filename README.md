@@ -1,6 +1,5 @@
 ### Hello there 👋 I'm Grzegorz
 
-- 🔭 II’m currently working at Íslandsbanki
 - 🌱 I’m currently learning more and more Javascript
 - :computer: Most used line of code `git rebase`
 - 🤔 I’m getting my first milion $
