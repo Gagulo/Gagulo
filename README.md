@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Grzegorz
+### Hello there 👋 I'm Grzegorz 🅰
 
 - 🌱 I’m currently learning more and more Javascript
 - :computer: Most used line of code `git rebase`
