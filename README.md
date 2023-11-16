@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning more and more Javascript
 - :computer: Most used line of code `git rebase`
-- 🤔 I’m getting my first milion $
-- 💬 Ask me about angular
+- 🤔 I’m getting my first milion €
+- 💬 Ask me about Angular
 - 📫 How to reach me: grzegorzsokalski86@gmail.com
 - 😄 Pronouns: Gagulo, Greg, Grzes
 - ⚡ Fun fact: Did u know that Earth've 2 moons (2020 CD3)?
